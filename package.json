@@ -1,0 +1,13 @@
+{
+  "name": "redis-crud",
+  "private": false,
+  "scripts": {
+  },
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "redis-om": "^0.1.7"
+  },
+  "devDependencies": {
+    "eslint": "8.4.1"
+  }
+}
